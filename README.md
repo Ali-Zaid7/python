@@ -1,4 +1,3 @@
-# python
 
 # ✅ Python Bytecode Summary (Test Prep Version)
 
