@@ -31,7 +31,7 @@
 
 ## 🧪 4. Example Code
 
-```python
+```
 class Person:
     def __init__(self, name, age):
         self.name = name
@@ -43,7 +43,7 @@ class Person:
 person = Person("Arif Rozani", 20)
 person.greet()
 
-
+```
 # 🐍 Python Indentation & Type Hinting
 
 ---
