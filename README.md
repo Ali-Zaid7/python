@@ -56,13 +56,20 @@ In Python, **indentation is used to denote a block of code** within a control st
 
 ---
 Your Code (.py)
+
    ↓
+   
 Python Compiler
-   ↓
+
+↓
 Bytecode (.pyc)
+
    ↓
+   
 Python Virtual Machine (PVM)
+
    ↓
+   
 Output
 ```
 ```
