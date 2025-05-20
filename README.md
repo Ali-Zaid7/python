@@ -55,6 +55,17 @@ person.greet()
 In Python, **indentation is used to denote a block of code** within a control structure, function, or class. It is a crucial aspect of Python syntax, and incorrect indentation can lead to syntax errors.
 
 ---
+Your Code (.py)
+   ↓
+Python Compiler
+   ↓
+Bytecode (.pyc)
+   ↓
+Python Virtual Machine (PVM)
+   ↓
+Output
+```
+```
 
 ### ❓ What is Indentation?
 
